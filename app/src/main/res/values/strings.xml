@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EditaContactos</string>
+    <string name="hintNombre">Nombre</string>
+    <string name="hintFechNac">Fecha de nacimiento</string>
+    <string name="hintTelefono">Teléfono</string>
+    <string name="hintEmail">E-mail</string>
+    <string name="hintDescripcion">Descripción de contacto</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="btnRegresar">Regresar</string>
+</resources>
